@@ -1,0 +1,1 @@
+# is-typeOf-npm-package
